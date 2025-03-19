@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "produto":"Boné",
+        "descricao": "Bone azul jeans",
+        "preco": 32,
+        "imagem":"https://i.pinimg.com/736x/2f/40/f3/2f40f3a011033186aa7225c82dc1f4d1.jpg"
+    },
+    {
+        "id":2,
+        "produto":"Camiseta",
+        "descricao": "Camiseta Creeper Minecraft verde",
+        "preco": 43,
+        "imagem":"https://i.pinimg.com/736x/b0/40/6e/b0406e83ad46c8f0d3d1873151572c8e.jpg"
+    },
+    {
+        "id":3,
+        "produto":"Camiseta",
+        "descricao": "Camiseta Angel apple",
+        "preco": 35,
+        "imagem":"https://i.pinimg.com/736x/a4/86/a9/a486a9096f86beb90310f34ad84c39b6.jpg"
+    },
+    {
+        "id":4,
+        "produto":"Sueter",
+        "descricao": "Sueter de borboleta azul",
+        "preco": 32,
+        "imagem":"https://i.pinimg.com/736x/09/f9/90/09f99081e7dad77b68e8122fb67be467.jpg"
+    },
+    {
+        "id":5,
+        "produto":"Calça",
+        "descricao": "Calça wideleg pants preta",
+        "preco": 29,
+        "imagem":"https://i.pinimg.com/736x/7d/47/cf/7d47cf4d92af8240f72ae90ac429f99a.jpg"
+    },
+    {
+        "id":6,
+        "produto":"Camiseta",
+        "descricao": "Camiseta cinza de Cruz",
+        "preco": 50,
+        "imagem":"https://i.pinimg.com/736x/48/6b/de/486bde9f5bec8685740f9dea400bf94e.jpg"
+    },
+    {
+        "id":7,
+        "produto":"Boné",
+        "descricao": "Bone azul jeans",
+        "preco": 32,
+        "imagem":"https://i.pinimg.com/736x/2f/40/f3/2f40f3a011033186aa7225c82dc1f4d1.jpg"
+    },
+    {
+        "id":8,
+        "produto":"Boné",
+        "descricao": "Bone azul jeans",
+        "preco": 32,
+        "imagem":"https://i.pinimg.com/736x/2f/40/f3/2f40f3a011033186aa7225c82dc1f4d1.jpg"
+    },
+    {
+        "id":9,
+        "produto":"Casaco",
+        "descricao": "Casaco cinza Esqueleto",
+        "preco": 45,
+        "imagem":"https://i.pinimg.com/736x/17/f0/42/17f0424e641e435c12abd51ea126d6f5.jpg"
+    },
+    {
+        "id":10,
+        "produto":"Luvas",
+        "descricao": "Luvas de Proteção solar UV Pretas",
+        "preco": 14,
+        "imagem":"https://i.pinimg.com/736x/e3/9b/fb/e39bfb5d29ca29824812a4c674d1bd1b.jpg"
+    },
+    {
+        "id":11,
+        "produto":"Meias",
+        "descricao": "Kit de Meias Musicais",
+        "preco": 23,
+        "imagem":"https://i.pinimg.com/736x/1f/88/5d/1f885d018b8010ef654f65103d590631.jpg"
+    },
+    {
+        "id":12,
+        "produto":"Kit",
+        "descricao": "Kit de Roupa Thug life de 2pac",
+        "preco": 180,
+        "imagem":"https://i.pinimg.com/736x/95/d7/04/95d7045e025c1014d4dab486723ef50c.jpg"
+    }
+]
