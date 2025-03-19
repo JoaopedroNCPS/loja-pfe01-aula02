@@ -1,27 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Loja do Litão</title>
-    <link  rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <header>
-        <h1>Loja do litão</h1>
+        <h1>Loja do Litão</h1>
+        <button onclick="cadastro.classList.remove('oculto')">Novo produto</button>
     </header>
     <main>
-        <div class="card">
-            <h3>Titulo card</h3>
-            <img src="./assets/bij.jpg" alt="Boné">
-            <p>Preco</p>
-            <button>Detalhes</button>
-        </div>
-       
     </main>
     <footer>
         <h2>By Cati</h2>
     </footer>
+    <div id="cadastro" class="modal oculto">
+        <div class="janela">
+            <div>
+                <h3>Cadastro</h3>
+                <button onclick="window.location.reload()">X</button>
+            </div>
+            <form>
+                <input type="text" name="produto" placeholder="Nome do produto" required>
+                <input type="text" name="descricao" placeholder="Descrição" required>
+                <input type="number" step="0.01" name="preco" placeholder="Preço" required>
+                <input type="text" name="imagem" placeholder="Cole o endereço da imagem" required>
+                <button type="submit">Cadastrar</button>
+            </form>
+        </div>
+    </div>
 </body>
 <script src="script.js"></script>
 </html>

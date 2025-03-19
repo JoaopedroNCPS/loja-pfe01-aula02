@@ -11,12 +11,12 @@ var produtos = [
 ];
 fetch(uri)
     .then(resp => resp.json())
-    .then(resp => { produtos = resp;
-    }).then(() =>mostrarCards())
+    .then(resp => { produtos = resp; })
+    .then(() => mostrarCards())
 
-function mostrarCards(){
+function mostrarCards() {
     const main = document.querySelector('main');
-    produtos.forEach(p=>{
+    produtos.forEach(p => {
         main.innerHTML += `
         <div class="card">
             <h3>${p.produto}</h3>
@@ -24,6 +24,6 @@ function mostrarCards(){
             <p>Preco: ${p.preco}</p>
             <button>Detalhes</button>
         </div>
-            `;
+        `;
     })
 }
