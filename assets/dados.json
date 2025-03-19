@@ -1,0 +1,9 @@
+[
+    {
+        "id":1,
+        "produto":"Boné",
+        "descricao": "Bone azul jeans",
+        "preco": 32,
+        "imagem":"https://i.pinimg.com/736x/2f/40/f3/2f40f3a011033186aa7225c82dc1f4d1.jpg"
+    }
+]
