@@ -44,16 +44,16 @@
     {
         "id":7,
         "produto":"Boné",
-        "descricao": "Bone azul jeans",
-        "preco": 32,
-        "imagem":"https://i.pinimg.com/736x/2f/40/f3/2f40f3a011033186aa7225c82dc1f4d1.jpg"
+        "descricao": "Bone Marrom",
+        "preco": 31,
+        "imagem":"https://i.pinimg.com/736x/78/97/96/7897962e7f1d62a6982997c261ccbbe9.jpg"
     },
     {
         "id":8,
         "produto":"Boné",
-        "descricao": "Bone azul jeans",
-        "preco": 32,
-        "imagem":"https://i.pinimg.com/736x/2f/40/f3/2f40f3a011033186aa7225c82dc1f4d1.jpg"
+        "descricao": "Bone Preto Estrelinha",
+        "preco": 25,
+        "imagem":"https://i.pinimg.com/736x/c8/bb/c6/c8bbc627164bca9d5cb19d74d6d63c2c.jpg"
     },
     {
         "id":9,
@@ -83,4 +83,4 @@
         "preco": 180,
         "imagem":"https://i.pinimg.com/736x/95/d7/04/95d7045e025c1014d4dab486723ef50c.jpg"
     }
-]
+]         
